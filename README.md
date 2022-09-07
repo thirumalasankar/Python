@@ -1,1 +1,1 @@
-# Python basic and Oops in Python.
+# Python basics and Oops in Python.
